@@ -53,7 +53,7 @@ Execute the programs and publish them.
     </body>
 </html>
  
- bus.html
+ <bus.html>
 <html>
 <head>
     <title>MY TEMPLE</title>
@@ -74,7 +74,7 @@ Execute the programs and publish them.
 </body>
 </html> 
 
-mill.html
+<mill.html>
 <html>
 <head>
     <title>MY TEMPLE</title>
@@ -95,7 +95,7 @@ mill.html
 </body>
 </html>   
 
-cotton.html
+<cotton.html>
 <html>
 <head>
     <title>MY TEMPLE</title>
@@ -116,7 +116,7 @@ Ramraj Cotton is a retailer with a presence in Arani, located on Pudhukamoor Roa
 </body>
 </html>
 
-temple.html
+<temple.html>
 <html>
 <head>
     <title>MY TEMPLE</title>
@@ -137,7 +137,7 @@ temple.html
 </body>
 </html>
 
-bridge.html
+<bridge.html>
 <html>
 <head>
     <title>MY TEMPLE</title>
